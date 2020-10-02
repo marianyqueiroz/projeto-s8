@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "genero": "Indie"
+    },
+    {
+        "id": 2,
+        "genero": "Rock"
+    },
+    {
+        "id": 3,
+        "genero": "Indie"
+    },
+    {
+        "id": 4,
+        "genero": "Indie Rock"
+    },
+    {
+        "id": 5,
+        "genero": "MPB"
+    },
+    {
+        "id": 6,
+        "genero": "Indie"
+    },
+    {
+        "id": 7,
+        "genero": "MPB"
+    },
+    {
+        "id": 8,
+        "genero": "Indie"
+    },
+    {
+        "id": 9,
+        "genero": "Indie Rock"
+    },
+    {
+        "id": 10,
+        "genero": "MPB"
+    }
+]
