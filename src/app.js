@@ -8,8 +8,8 @@
 const express = require("express");
 const app = express();
 
-const musicas  = require("./routes/musicasRoutes");
+const filmes  = require("./routes/filmesRoutes");
 
-app.use("/", musicas);
+app.use("/", filmes);
 
 module.exports = app;

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "direcao": "Michel Gondry"
+    },
+    {
+        "id": 2,
+        "direcao": "Peter Weir"
+    },
+    {
+        "id": 3,
+        "direcao": "Peter Weir"
+    },
+    {
+        "id": 4,
+        "direcao": "Galder Gaztelu-Urrutia"
+    },
+    {
+        "id": 5,
+        "direcao": "Charlie Kaufman"   
+    },
+    {
+        "id": 6,
+        "direcao": "Eduardo Casanova"   
+    },
+    {
+        "id": 7,
+        "direcao": "Guillermo del Toro" 
+    },
+    {
+        "id": 8,
+        "direcao": "Guillermo del Toro" 
+    },
+    {
+        "id": 9,
+        "direcao": "Jordan Peele" 
+    },
+    {
+        "id": 10,
+        "direcao": "Kleber Mendonça Filho"
+    }
+]
